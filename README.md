@@ -4,3 +4,8 @@ Beta Nurul Awwalin<br>
 Teknik Informatika - 3B<br>
 Universitas Islam Balitar
 </b></p>
+
+<span>Praktik Latihan</span><br>
+<ul>
+  <li>Pertemuan 1 <a href:"https://codepen.io/collection/aMZPrG"> Klik Aja</a></li>
+</ul>
