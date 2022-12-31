@@ -6,4 +6,4 @@ Universitas Islam Balitar
 </b></p>
 
 <span>Praktik Latihan</span><br>
-Pertemuan 1 <a href:"https://codepen.io/collection/aMZPrG"> Klik Aja </a>
+Pertemuan 1 <a href="https://codepen.io/collection/aMZPrG"> Klik Aja </a>
